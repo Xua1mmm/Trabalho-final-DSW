@@ -1,0 +1,145 @@
+.favicon{
+	border-radius: 30px;
+}
+.Geral {
+	font-family: 'Monoton', cursive;
+
+}
+.MinimenuNav{
+	text-align:  right;
+	margin-top: -4%;
+	font-family: 'Monoton', cursive;
+	color: white;
+}
+#letras{
+	font-family: Century Gothic;
+	font-style: bold;
+}
+#j1{
+	background-image: url(https://images8.alphacoders.com/391/391333.jpg);
+	color: white;
+}
+#j2{
+	background-image: url(https://flamencoguitars.com.au/wp-content/uploads/2017/04/Flamenco-Guitar-BG.jpg);
+	color: white;
+}
+#j3{
+	background-image: url(https://cdn.wallpapersafari.com/93/0/ltwC6r.jpg);
+	color: white;
+}
+.display-4{
+	font-size: 700%;
+}
+.lead{
+	font-size: 400%;
+}
+.subp{
+	font-size: 200%;
+	font-family: Century Gothic;
+}
+{
+	font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+	height: 100%;
+	width: 0;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background-color: #111;
+	overflow-x: hidden;
+	transition: 0.5s;
+	padding-top: 60px;
+}
+
+.sidenav a {
+	padding: 8px 8px 8px 32px;
+	text-decoration: none;
+	font-size: 25px;
+	color: #818181;
+	display: block;
+	transition: 0.3s;
+}
+
+.sidenav a:hover {
+	color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+	position: absolute;
+	top: 0;
+	right: 25px;
+	font-size: 36px;
+	margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+	.sidenav {padding-top: 15px;}
+	.sidenav a {font-size: 18px;}
+}
+.player{
+	width: 14.5%;
+	height: 21.5%;
+	margin-left: 14%;
+	margin-top: -13.7%;
+}
+.audio{
+	width: 2%;
+	height: 2%;
+}
+#bora{
+	font-family: Century Gothic;
+}
+#Artista1{
+	margin-left: 3.5%;
+	font-family: Century Gothic;
+	font-size: 130%;
+}
+#Orien1{
+	margin-left: 5%;
+}
+#Orien2{
+	margin-left: 16%;
+}
+#Orien3{
+	margin-left: 16%;
+}
+#Mds{
+	margin-left: 37%;
+	margin-top: -36%;
+}
+#Mds2{
+	margin-left: 59%;
+	margin-top: -33%;
+}
+#Mds3{
+	margin-left: 47%;
+	margin-top: -29%;
+}
+#Mds4{
+	margin-left: 38%;
+	margin-top: -32%;
+}
+#Mds5{
+	margin-left: 44%;
+	margin-top: -28%;
+}
+#Mds6{
+	margin-left: 40%;
+	margin-top: -30%;
+}
+#Mds7{
+	margin-left: 36%;
+	margin-top: -28%;
+}
+
+#OrienC{
+	font-family: 'Montserrat', sans-serif;
+
+}
+#Policoeso{
+	font-family: Century Gothic;
+	text-align: center;
+}
